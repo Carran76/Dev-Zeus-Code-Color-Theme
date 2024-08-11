@@ -1,0 +1,21 @@
+{
+  "name": "dev-zeus-code-color-theme",
+  "displayName": "Dev Zeus Code Color Theme",
+  "description": "The best VS code color theme ever! Make sure the check it out!!!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DZCCT",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DZCCT-color-theme.json"
+      }
+    ]
+  }
+}
