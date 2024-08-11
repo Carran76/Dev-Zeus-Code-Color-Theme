@@ -6,6 +6,23 @@
   "engines": {
     "vscode": "^1.92.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t1devzeus/Dev-Zeus-Code-Color-Theme"
+  },
+  "keywords": [
+    "theme",
+    "zeus",
+    "dev zeus",
+    "dev zeus code color theme",
+    "dev zeus code color",
+    "dev zeus theme",
+    "zeus theme",
+    "dark theme",
+    "dark mode theme",
+    "cool theme",
+    "chill theme"
+  ],
   "categories": [
     "Themes"
   ],
